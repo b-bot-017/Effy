@@ -5,6 +5,10 @@
   "description": "Yet another file manager",
   "author": "@ruslanx32",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruslanx32/Effy"
+  },
   "scripts": {
     "start": "nw"
   },
