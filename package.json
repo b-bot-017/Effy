@@ -1,6 +1,5 @@
 {
   "name": "Effy",
-  "main": "index.html",
   "version": "1.0.0",
   "description": "Yet another file manager",
   "author": "@ruslanx32",
@@ -10,7 +9,7 @@
     "url": "https://github.com/ruslanx32/Effy"
   },
   "scripts": {
-    "start": "nw"
+    "start": "nw src"
   },
   "dependencies": {
     "nw": "^0.12.0-rc1"
